@@ -5,7 +5,7 @@ This guide will walk you through deploying a Clojure application on [Deis Workfl
 ## Usage
 
 ```console
-$ git clone https://github.com/deis/example-clojure-ring
+$ git clone https://github.com/deisthree/example-clojure-ring
 $ cd example-clojure-ring
 $ deis create
 Creating Application... done, created haptic-duckling
@@ -51,8 +51,8 @@ Powered by Deis
 
 ## Additional Resources
 
-* [GitHub Project](https://github.com/deis/workflow)
+* [GitHub Project](https://github.com/deisthree/workflow)
 * [Documentation](https://deis.com/docs/workflow/)
 * [Blog](https://deis.com/blog/)
 
-[Deis Workflow]: https://github.com/deis/workflow#readme
+[Deis Workflow]: https://github.com/deisthree/workflow#readme

@@ -1,6 +1,6 @@
 (defproject deis-helloworld "1.0.3-SNAPSHOT"
   :description "Deis Example Application"
-  :url "https://github.com/deis/example-clojure-ring"
+  :url "https://github.com/deisthree/example-clojure-ring"
   :license {:name "Apache v2.0"
             :url "http://www.apache.org/licenses/LICENSE-2.0"}
   :dependencies [
